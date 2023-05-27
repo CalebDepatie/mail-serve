@@ -1,7 +1,7 @@
 FROM golang:1.16-alpine
 
-LABEL description="Docker Template for Go"
-ARG NAME=go-docker
+LABEL description="Mail sending microservice"
+ARG NAME=mail-serve
 ENV NAME_DIR=${NAME}
 
 # setup
