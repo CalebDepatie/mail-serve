@@ -1,4 +1,4 @@
-module github.com/CalebDepatie/go-docker
+module github.com/CalebDepatie/mail-serve
 
 go 1.16
 
